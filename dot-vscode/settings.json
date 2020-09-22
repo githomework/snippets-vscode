@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "go.vetFlags": [
+        "-copylocks=false"
+    ],
+	"go.useGoProxyToCheckForToolUpdates": false
+}
